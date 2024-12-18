@@ -87,17 +87,11 @@ This project is a **Streamlit-based web application** designed to predict flood 
 - Add geospatial visualizations for better risk assessment.
 - Integrate an API for external data sources (e.g., weather forecasts).
 
-## Contributing
-Contributions are welcome! Follow these steps:
-1. Fork the repository.
-2. Create a feature branch.
+
 3. Submit a pull request with a detailed description of your changes.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Contact
-For questions or feedback, please contact:
-- **Email**: [your_email@example.com]
-- **GitHub**: [Your GitHub Profile]
+
 
