@@ -6,9 +6,10 @@ from sklearn.ensemble import RandomForestRegressor
 
 # Load feature names and model with error handling
 try:
+    # replace the path with feature_name.pkl path
     with open(r'C:\Users\Hp\Downloads\Flood Prediction Project\feature_names.pkl', 'rb') as f:
         feature_names = pickle.load(f)
-
+    # replace the path with model path, you will download a model from google drive, check in the readme file.
     with open(r'C:\Users\Hp\Downloads\Flood Prediction Project\random_forest_flood_model1.pkl', 'rb') as f:
         model = pickle.load(f)
 
