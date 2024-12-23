@@ -1,7 +1,6 @@
 # South Sudan Flood Prediction App
 
 This project is a **Streamlit-based web application** designed to predict flood risks in South Sudan. The application utilizes a machine learning model to forecast flood events and assess associated risk levels (Low, Medium, High). It aims to aid in flood preparedness and response planning by providing easy-to-understand predictions and interactive visualizations.
-![Flood Prediction App Screenshot](https://github.com/Dau2004/FTL_ML4_GROUP5/main/Screenshot 2024-12-23 112915.png)
 
 
 ## Key Features
