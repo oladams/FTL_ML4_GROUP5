@@ -74,6 +74,8 @@ This project is a **Streamlit-based web application** designed to predict flood 
 - **Features**:
   - Example features include `Precipitation`, `Temperature`, and other environmental variables.
 - **Training Dataset**: The model was trained on flood-related data to predict risk levels accurately.
+- **Model Access**: The model can be accessed [here](https://drive.google.com/file/d/1_V2nFzbnJXLotAKFP2co-lWkOU8ozY0u/view?usp=sharing).
+
 
 ## Known Issues
 1. **Google Drive File Access**:
